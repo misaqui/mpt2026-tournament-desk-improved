@@ -1,0 +1,1 @@
+Playwright configuration copied from the original repository.

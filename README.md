@@ -1,0 +1,1 @@
+README updated for the improved copy and player-experience changes.

@@ -1,0 +1,1 @@
+Player portal updated to remember the selected team, auto-select a single team, sort matches, and highlight the next match.

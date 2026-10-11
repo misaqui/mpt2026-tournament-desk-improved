@@ -1,0 +1,1 @@
+Backend copied with reusable ID validation, player/team validation helpers, and correct 400/404 error handling.

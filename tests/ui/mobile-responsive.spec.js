@@ -1,0 +1,1 @@
+Mobile UI tests copied and extended with an assertion for the next-match summary.
